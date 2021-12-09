@@ -22,6 +22,5 @@ The quiz and programming homework is belong to coursera.
 - [Concurrency in Go](https://github.com/AmitVermaDce/Programming-with-Google-Go-Coursera-Specialization/tree/main/3.%20Concurrency%20in%20Go)
     - [Week-1](https://github.com/AmitVermaDce/Programming-with-Google-Go-Coursera-Specialization/tree/main/3.%20Concurrency%20in%20Go/Week-1)
     - [Week-2](https://github.com/AmitVermaDce/Programming-with-Google-Go-Coursera-Specialization/tree/main/3.%20Concurrency%20in%20Go/Week-2)
-    - [Week3](https://github.com/pandao/editor.md)
-    - [Week-4](https://github.com/pandao/editor.md)
+    
 
